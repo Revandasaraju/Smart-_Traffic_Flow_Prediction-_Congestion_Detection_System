@@ -68,7 +68,7 @@ This project is part of my GitHub directory. Contributions and feedback are alwa
 
 ---
 ## 
- <a href="https://github.com/thenomaniqbal/Traffic-flow-prediction/">
+ <a href="https://github.com/thenomaniqbal/Traffic-flow-prediction](https://github.com/Revandasaraju/Smart-_Traffic_Flow_Prediction-_Congestion_Detection_System)/">
     <img src="Images/ITS.png" width="100%" height="100%"> 
     <img src="Images/models.png" width="100%" height="100%">  
     <img src="Images/1.PNG" width="100%" height="100%"> 

@@ -70,10 +70,10 @@ This project is part of my GitHub directory. Contributions and feedback are alwa
 ## 
  <a href="https://github.com/thenomaniqbal/Traffic-flow-prediction/">
     <img src="Images/ITS.png" width="100%" height="100%"> 
-    <img src="images/models.png" width="100%" height="100%">  
-    <img src="images/1.PNG" width="100%" height="100%"> 
-    <img src="images/3.PNG" width="100%" height="100%"> 
-    <img src="images/4.PNG" width="100%" height="100%"> 
-    <img src="images/5.PNG" width="100%" height="100%"> 
-    <img src="images/6.PNG" width="100%" height="100%">  
+    <img src="Images/models.png" width="100%" height="100%">  
+    <img src="Images/1.PNG" width="100%" height="100%"> 
+    <img src="Images/3.PNG" width="100%" height="100%"> 
+    <img src="Images/4.PNG" width="100%" height="100%"> 
+    <img src="Images/5.PNG" width="100%" height="100%"> 
+    <img src="Images/6.PNG" width="100%" height="100%">  
   </a>

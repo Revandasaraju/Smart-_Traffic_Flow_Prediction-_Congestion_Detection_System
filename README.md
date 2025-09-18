@@ -10,7 +10,7 @@ Traffic Flow Prediction (TFP) is a key aspect of Intelligent Transportation Syst
 Many countries have adopted ITS solutions to address these issues and reduce the economic burden of congestion. ITS uses advanced traffic management technologies, including data communication, information processing, and predictive analytics, to improve transport efficiency and safety [2]. TFP is a cornerstone of ITS, enabling critical functions such as speed regulation, travel time estimation, and congestion management.  
 
 <p align="center">
-  <img src="images/ITS2.png" alt="ITS" width="80%" height="320">
+  <img src="Images/ITS2.png" alt="ITS" width="80%" height="320">
 </p>  
                                          <p align="center"> <b>Figure 1. ITS</b> </p>                 
 
@@ -69,7 +69,7 @@ This project is part of my GitHub directory. Contributions and feedback are alwa
 ---
 ## 
  <a href="https://github.com/thenomaniqbal/Traffic-flow-prediction/">
-    <img src="images/ITS.png" width="100%" height="100%"> 
+    <img src="Images/ITS.png" width="100%" height="100%"> 
     <img src="images/models.png" width="100%" height="100%">  
     <img src="images/1.PNG" width="100%" height="100%"> 
     <img src="images/3.PNG" width="100%" height="100%"> 
